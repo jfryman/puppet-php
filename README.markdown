@@ -1,4 +1,4 @@
-# RBot Module
+# PHP Module
 
 James Fryman <james@frymanet.com>
 
